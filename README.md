@@ -27,4 +27,10 @@ Fiquem avontade de entrar comigo por algum método abaixo:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/Yara-56/Yara-56/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yara-56/Yara-56/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yara-56/Yara-56/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yara-56/Yara-56/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
