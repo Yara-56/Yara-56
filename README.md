@@ -25,7 +25,12 @@ Fiquem avontade de entrar comigo por algum método abaixo:
   <a href="https://github.com/Yara-56">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yara-56&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=16&theme=dracula"/>
+  <img aling="right" alt="Yara-Gato" height="70" width="70" src="https://img.freepik.com/vetores-premium/pixel-gato-fofo-no-laptop-laranja-gatinho_434079-304.jpg">
 </div>
+
+
+##
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yara-56/Yara-56/output/github-contribution-grid-snake-dark.svg">
