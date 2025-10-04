@@ -1,7 +1,7 @@
 ## Olá, sou a Yara Lacerda estudante de eng de software e entusiasta da tecnologia!
 
 Sejam bem vindos ao meu perfil, vocês conseguem visualizar alguns dos meus projetos pessoais.
-Fiquem avontade de entrar comigo por algum método abaixo:
+Fiquem avontade de entrar em contato comigo por algum método abaixo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
