@@ -9,27 +9,31 @@
 ---
 
 ### 🌐 Executive Summary
-Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas escaláveis. Especialista em Engenharia de Software com foco em **Segurança da Informação** (padrões FSFX) e apaixonada por transformar lógica complexa em experiências de utilizador de alto nível.
+Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas escaláveis. Especialista em Engenharia de Software com foco em **Segurança da Informação** e apaixonada por transformar lógica complexa em experiências de utilizador de alto nível.
 
 - 🏗️ **Core Project:** **HomeFlux** — Ecossistema de gestão imobiliária em Monorepo.
-- 🧪 **R&D:** Pesquisadora em Engenharia de Computação Quântica e IA.
-- 🛡️ **Stack:** Foco em escalabilidade com Node.js, TypeScript e Segurança Avançada.
+- 🛡️ **Cybersecurity:** Implementando padrões enterprise de autenticação (FSFX Standards).
+- 🧪 **R&D:** Pesquisadora em Engenharia de Computação Quântica.
 
 ---
 
 ### 🛠️ Strategic Tech Stack
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,prisma,postgres,mongodb,anthropic,docker,githubactions,figma&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 Performance & Rank
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_rank=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_rank=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <br />
