@@ -9,11 +9,11 @@
 ---
 
 ### 🌐 Executive Summary
-Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas escaláveis. Especialista em engenharia de software com foco em **segurança da informação** e apaixonada por transformar lógica complexa em experiências de usuário de alto nível.
+Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas escaláveis. Especialista em Engenharia de Software com foco em **Segurança da Informação** e apaixonada por transformar lógica complexa em experiências de utilizador de alto nível.
 
-- 🏗️ **Core Project:** [HomeFlux](https://github.com/Yara-56) — Gestão imobiliária de alta performance em arquitetura Monorepo.
-- 🛡️ **Cybersecurity:** Implementando padrões senior de autenticação e proteção de dados.
-- 🧪 **R&D:** Pesquisadora entusiasta em Engenharia de Computação Quântica.
+- 🏗️ **Core Project:** **HomeFlux** — Ecossistema de gestão imobiliária em Monorepo.
+- 🛡️ **Cybersecurity:** Implementando padrões enterprise de autenticação (FSFX Standards).
+- 🧪 **R&D:** Pesquisadora em Engenharia de Computação Quântica.
 
 ---
 
@@ -26,10 +26,10 @@ Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas
 
 ---
 
-### 📊 Business Metrics & Impact
+### 📊 Performance & Rank
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yara-56&show_icons=true&theme=transparent&title_color=00d1ff&text_color=ffffff&icon_color=00d1ff&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=transparent&title_color=00d1ff&text_color=ffffff&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br />
@@ -52,11 +52,8 @@ Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas
   <a href="https://www.instagram.com/yaralcm/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <p align="right">
-  <i>"Simplicity is the ultimate sophistication." — Built with pnpm & Architecture Vision</i>
+  <i>"Simplicity is the ultimate sophistication." — Architecture Visionary</i>
 </p>
