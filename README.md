@@ -9,11 +9,11 @@
 ---
 
 ### 🌐 Executive Summary
-Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas escaláveis. Especialista em Engenharia de Software com foco em **Segurança da Informação** e apaixonada por transformar lógica complexa em experiências de utilizador de alto nível.
+Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas escaláveis. Especialista em Engenharia de Software com foco em **Segurança da Informação** (padrões FSFX) e apaixonada por transformar lógica complexa em experiências de utilizador de alto nível.
 
 - 🏗️ **Core Project:** **HomeFlux** — Ecossistema de gestão imobiliária em Monorepo.
-- 🛡️ **Cybersecurity:** Implementando padrões enterprise de autenticação (FSFX Standards).
-- 🧪 **R&D:** Pesquisadora em Engenharia de Computação Quântica.
+- 🧪 **R&D:** Pesquisadora em Engenharia de Computação Quântica e IA.
+- 🛡️ **Stack:** Foco em escalabilidade com Node.js, TypeScript e Segurança Avançada.
 
 ---
 
@@ -27,10 +27,10 @@ Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas
 ---
 
 ### 📊 Performance & Rank
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_rank=true&cache=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight&cache=1" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_rank=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
 <br />
 
@@ -51,9 +51,6 @@ Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas
   </a>
   <a href="https://www.instagram.com/yaralcm/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:yara.lacerda.contato@seuemail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
