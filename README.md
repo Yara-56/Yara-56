@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> Yara Lacerda | Founder & Product Lead
+# 🚀 Yara Lacerda | Founder & Product Lead
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-SaaS_Product_Management-00d1ff?style=for-the-badge&logoColor=white" />
@@ -20,17 +20,17 @@ Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas
 ### 🛠️ Strategic Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,prisma,postgres,docker,githubactions,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,prisma,postgres,docker,githubactions,figma&theme=dark" />
   </a>
 </p>
 
 ---
 
 ### 📊 Performance & Rank
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_rank=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
 <br />
 
