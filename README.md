@@ -1,4 +1,4 @@
-# 🚀 Yara Lacerda | Founder & Product Lead
+# 🚀⚙️ Yara Lacerda | Founder & Product Lead
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-SaaS_Product_Management-00d1ff?style=for-the-badge&logoColor=white" />
@@ -20,17 +20,17 @@ Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas
 ### 🛠️ Strategic Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,prisma,postgres,docker,githubactions,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,prisma,postgres,mongodb,anthropic,docker,githubactions,figma&theme=dark" />
   </a>
 </p>
 
 ---
 
 ### 📊 Performance & Rank
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_rank=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_rank=true&cache=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight&cache=1" />
+</div>
 
 <br />
 
@@ -38,7 +38,7 @@ Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yara-56/Yara-56/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yara-56/Yara-56/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Yara-56/Yara-56/output/github-contribution-grid-snake.svg" width="80%">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Yara-56/Yara-56/output/github-contribution-grid-snake.svg" width="85%">
   </picture>
 </div>
 
@@ -51,6 +51,9 @@ Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas
   </a>
   <a href="https://www.instagram.com/yaralcm/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:yara.lacerda.contato@seuemail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
