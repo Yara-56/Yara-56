@@ -13,27 +13,23 @@ Founder da **HomeFlux**, liderando a visão de produto e arquitetura de sistemas
 
 - 🏗️ **Core Project:** **HomeFlux** — Ecossistema de gestão imobiliária em Monorepo.
 - 🛡️ **Cybersecurity:** Implementando padrões enterprise de autenticação (FSFX Standards).
-- 🧪 **R&D:** Pesquisadora em Engenharia de Computação Quântica.
+- 🧪 **R&D:** Pesquisadora em Engenharia de Computação Quântica e IA.
 
 ---
 
 ### 🛠️ Strategic Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,prisma,mongodb,vercel,docker,githubactions,figma&theme=dark" />
+  </a>
 </p>
 
 ---
 
 ### 📊 Performance & Rank
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_rank=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yara-56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_rank=true" />
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yara-56&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <br />
